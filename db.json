@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Ruby Roy",
+      "username": "ruby21",
+      "email": "ruby@gmail.com",
+      "phone": "9632587412",
+      "website": "ruby.com",
+      "id": 1
+    },
+    {
+      "name": "Samar Roy",
+      "username": "samar21",
+      "email": "samar21@gmail.com",
+      "phone": "8523697412",
+      "website": "samar.com",
+      "id": 2
+    },
+    {
+      "name": "Tumpa roy",
+      "username": "tumpa1",
+      "email": "tumpar192@gmail.com",
+      "phone": "8554754575",
+      "website": "tumpa.com",
+      "id": 3
+    },
+    {
+      "name": "Suhani Roy",
+      "username": "suhani2121",
+      "email": "suhani21@gmail.com",
+      "phone": "8754512124",
+      "website": "suhani.com",
+      "id": 4
+    }
+  ]
+}
